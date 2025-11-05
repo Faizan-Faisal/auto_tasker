@@ -9,5 +9,9 @@ dependencies = [
     "google-auth-httplib2>=0.2.0",
     "google-auth-oauthlib>=1.2.2",
     "gspread>=6.2.1",
+    "litellm>=1.77.5",
+    "matplotlib>=3.10.7",
     "openai-agents>=0.3.2",
+    "pandas>=2.3.3",
+    "reportlab>=4.4.4",
 ]
